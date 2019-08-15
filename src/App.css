@@ -1,33 +1,77 @@
-.App {
-  text-align: center;
+.main-container {
+  background-color: #00003a;
+  height: 1000px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.white-text {
+  color: #fff;
+}
+.table {
+  display: table;
+  overflow: hidden;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.table thead th {
+  background-color: #0300af;
+  border-top: 5px solid #00003a;
+  border-left: 5px solid #00003a;
+  border-right: 5px solid #00003a;
+  border-bottom: 5px solid #00003a;
+  line-height: 35px;
+  min-height: 100px;
+  height: 100px;
+  vertical-align: middle;
+  max-width: 200px;
 }
 
-.App-link {
-  color: #61dafb;
+.table tbody tr {
+  line-height: 200px;
+  min-height: 200px;
+  height: 200px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.table tbody td {
+  background-color: #0300af;
+  border-top: 5px solid #00003a;
+  border-left: 5px solid #00003a;
+  border-right: 5px solid #00003a;
+  border-bottom: 5px solid #00003a;
+  vertical-align: middle;
+  padding: none;
+}
+
+.category-header {
+  width: 16.66%;
+  text-shadow: 2px 2px 2px #000;
+  box-shadow:inset 1px 1px 1px 1px #0600ed;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.question-box {
+  box-shadow:inset 1px 1px 1px 1px #0600ed;
+  padding: none;
+}
+
+.question-value {
+  color: #f29649;
+  text-shadow: 2px 2px 2px #000;
+  font-weight: bold;
+  font-size: 60px;
+  cursor: pointer;
+
+  text-transform: uppercase;
+  text-decoration: none;
+  transform: scale(1, 2.5);
+  -webkit-transform: scale(1, 2.5); /* Safari and Chrome */
+  -moz-transform: scale(1, 2.5); /* Firefox */
+  -ms-transform: scale(1, 2.5); /* IE 9+ */
+  -o-transform: scale(1, 2.5); /* Opera */
+}
+
+.question-and-answer-text {
+  font-size: 50px;
+  cursor: pointer;
+  padding-top: 300px;
+  verticle-align: middle;
 }
