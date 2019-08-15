@@ -18,16 +18,16 @@
   border-right: 5px solid #00003a;
   border-bottom: 5px solid #00003a;
   line-height: 35px;
-  min-height: 100px;
-  height: 100px;
+  min-height: 90px;
+  height: 90px;
   vertical-align: middle;
   max-width: 200px;
 }
 
 .table tbody tr {
-  line-height: 200px;
-  min-height: 200px;
-  height: 200px;
+  line-height: 160px;
+  min-height: 160px;
+  height: 160px;
 }
 
 .table tbody td {
@@ -45,7 +45,7 @@
   text-shadow: 2px 2px 2px #000;
   box-shadow:inset 1px 1px 1px 1px #0600ed;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .question-box {
@@ -57,7 +57,7 @@
   color: #f29649;
   text-shadow: 2px 2px 2px #000;
   font-weight: bold;
-  font-size: 60px;
+  font-size: 50px;
   cursor: pointer;
 
   text-transform: uppercase;
