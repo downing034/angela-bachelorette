@@ -2,240 +2,240 @@ export const QuestionsJson = {
   "questions": [
     {
       "id": 1,
-      "questionText": "What is Trey’s favorite N64 game and character of choice",
-      "answerText": "Game: Mario Kart, Character: Yoshi",
+      "questionText": "What is Jeff's favorite video game",
+      "answerText": "He doesn't play video games",
       "showQuestion": false,
       "value": 200,
       "clicked": false
     },
     {
       "id": 2,
-      "questionText": "What would Trey say is Angela’s favorite currently existing bar on Broadway",
-      "answerText": "Bootleggers",
+      "questionText": "What would Jeff say is Britta favorite currently existing brewery",
+      "answerText": "Ola Brewing",
       "showQuestion": false,
       "value": 200,
       "clicked": false
     },
     {
       "id": 3,
-      "questionText": "What is Trey’s favorite Bloomer family memory",
-      "answerText": "Trips to Myrtle Beach with his family as a kid",
+      "questionText": "What is Jeff's favorite Rapp family memory",
+      "answerText": "Easter Weekend",
       "showQuestion": false,
       "value": 200,
       "clicked": false
     },
     {
       "id": 4,
-      "questionText": "What would Trey say is the one thing that Angela does that annoys him the most",
-      "answerText": "Can't sit down and relax at home",
+      "questionText": "What would Jeff say is the one thing that Britta does that annoys him the most",
+      "answerText": "owns an emotional support quadruped",
       "showQuestion": false,
       "value": 200,
       "clicked": false
     },
     {
       "id": 5,
-      "questionText": "What would Trey say is Angela's most embarrassing moment together",
-      "answerText": "Her puking and passing out in the car in Los Angeles on our way to LAX after a wedding",
+      "questionText": "What would Jeff say is Britta's most embarrassing moment together",
+      "answerText": "The time Jeff puked in a resturant, after puking in the Uber, on Britta's birthday.",
       "showQuestion": false,
       "value": 200,
       "clicked": false
     },
     {
       "id": 6,
-      "questionText": "What  is Trey's weirdest quirk",
-      "answerText": "Nervous tick where he run my hands in his hair real fast",
+      "questionText": "What  is Jeff's weirdest quirk",
+      "answerText": "Nothing, he is perfect",
       "showQuestion": false,
       "value": 200,
       "clicked": false
     },
     {
       "id": 7,
-      "questionText": "What is Trey’s favorite non-N64 game to play with Angela? Card, lawn, board, tv, etc.",
-      "answerText": "Skip-Bo, but Anglea always wins",
+      "questionText": "What is Jeff's favorite game to play with Britta? Card, lawn, board, computer, etc.",
+      "answerText": "Rummikub",
       "showQuestion": false,
       "value": 400,
       "clicked": false
     },
     {
       "id": 8,
-      "questionText": "What is Trey’s favorite brewery in town",
-      "answerText": "Bearded Iris",
+      "questionText": "What is Jeff's favorite wine ever (by vineyard, not varietal or region)",
+      "answerText": "Cloudline",
       "showQuestion": false,
       "value": 400,
       "clicked": false
     },
     {
       "id": 9,
-      "questionText": "What is Trey’s favorite story he’s heard about a Cox family memory",
-      "answerText": "The story about how David and Lucia wouldn't give Angela a dog but instead gave her some birds and then they ended up with million birds after they mated",
+      "questionText": "What is Jeff's favorite story he’s heard about a Nicholson family memory",
+      "answerText": "",
       "showQuestion": false,
       "value": 400,
       "clicked": false
     },
     {
       "id": 10,
-      "questionText": "What would Trey say is the one thing he does that annoys Angela the most",
-      "answerText": "Doesn't clean the gerbil cage on time",
+      "questionText": "What would Jeff say is the one thing he does that annoys Britta the most",
+      "answerText": "leaves the cupboard doors open",
       "showQuestion": false,
       "value": 400,
       "clicked": false
     },
     {
       "id": 11,
-      "questionText": "What is Trey's favorite sex position",
-      "answerText": "Her on top",
+      "questionText": "What is Jeff's favorite sex position",
+      "answerText": "None of your damn business",
       "showQuestion": false,
       "value": 400,
       "clicked": false
     },
     {
       "id": 12,
-      "questionText": "What is the first thing Trey noticed about Angela on their first date",
-      "answerText": "Her boobs! Sorry babe!",
+      "questionText": "What is the first thing Jeff noticed about Britta on their first date",
+      "answerText": "She can hold an intellegent conversation.",
       "showQuestion": false,
       "value": 400,
       "clicked": false
     },
     {
       "id": 13,
-      "questionText": "What YouTube music video is Trey most likely to play on tv",
-      "answerText": "Destiny's Child: Say My Name (for Angela, of course!)",
+      "questionText": "What band is Jeff most likely to listen to while sitting on patio",
+      "answerText": "Smashing Pumpkins, but he really just shuffles everything",
       "showQuestion": false,
       "value": 600,
       "clicked": false
     },
     {
       "id": 14,
-      "questionText": "What is Trey’s favorite festival or event in town",
-      "answerText": "CMA Fest with Angela",
+      "questionText": "What is Jeff's favorite festival or event in town (sorry Pinot Noir fest is too easy and doesn't count)",
+      "answerText": "Gopher Football Games",
       "showQuestion": false,
       "value": 600,
       "clicked": false
     },
     {
       "id": 15,
-      "questionText": "If Trey could live in any country (besides USA) where would he live",
-      "answerText": "Spain",
+      "questionText": "If Jeff could live in any country (besides USA) where would he live",
+      "answerText": "Italy",
       "showQuestion": false,
       "value": 600,
       "clicked": false
     },
     {
       "id": 16,
-      "questionText": "What is Trey's biggest pet peeve in general and what would Trey say is Angela's biggest pet peeve in general",
-      "answerText": "Trey: People asking him to repeat himself because they weren't listening, Angela: People not following through on what they say they will do",
+      "questionText": "What is Jeff's biggest pet peeve in general and what would Jeff say is Britta's biggest pet peeve in general",
+      "answerText": "Jeff hates it when people are wrong, Britta hates it when there isn't a plan.",
       "showQuestion": false,
       "value": 600,
       "clicked": false
     },
     {
       "id": 17,
-      "questionText": "What is Trey's favorite trip he has taken with Angela",
-      "answerText": "Portland, Maine",
+      "questionText": "What is Jeff's favorite trip he has taken with Britta",
+      "answerText": "Italy",
       "showQuestion": false,
       "value": 600,
       "clicked": false
     },
     {
       "id": 18,
-      "questionText": "What song puts Trey in the mood *AND* would Trey say puts Angela in the mood",
-      "answerText": "I'll Make Love to You by Boyz II Men, but then we both laugh because it's so cheesy",
+      "questionText": "What song puts Jeff in the mood *AND* would Jeff say puts Britta in the mood",
+      "answerText": "",
       "showQuestion": false,
       "value": 600,
       "clicked": false
     },
     {
       "id": 19,
-      "questionText": "What games has Trey taught Angela",
-      "answerText": "Trick question, Angela has played every single card/board game. She teaches them all to him!",
+      "questionText": "What recipe has Jeff taught Britta that he would say she enjoys the most",
+      "answerText": "Jambalaya",
       "showQuestion": false,
       "value": 800,
       "clicked": false
     },
     {
       "id": 20,
-      "questionText": "What is Trey’s go to drink recipe",
-      "answerText": "Beer, but whiskey and ginger ale otherwise",
+      "questionText": "What was the first meal you two cooked together",
+      "answerText": "Jambalaya and cornbread",
       "showQuestion": false,
       "value": 800,
       "clicked": false
     },
     {
       "id": 21,
-      "questionText": "If Trey had to name your first child RIGHT NOW what first and middle name would he choose",
-      "answerText": "Oh God, I have no clue. Boy: James Trey | Girl: Elizabeth Lucia ????",
+      "questionText": "If Jeff had to describe you as a famous TV character, who would it be",
+      "answerText": "Daenerys Targaryen. A strong, independent, intelligent woman with a steady moral compass who doesn't take shit from anybody. And she looks good naked.",
       "showQuestion": false,
       "value": 800,
       "clicked": false
     },
     {
       "id": 22,
-      "questionText": "What TV show/movie does Trey hate watching with Angela",
-      "answerText": "Teen Mom and all Real Housewives",
+      "questionText": "What TV show/movie does Jeff hate watching with Britta",
+      "answerText": "Anything bachelor related",
       "showQuestion": false,
       "value": 800,
       "clicked": false
     },
     {
       "id": 23,
-      "questionText": "What would Trey say is the funniest memory he has of the two of you together",
-      "answerText": "After dinner and drinks with Chris and Jackie in Cincinnati, Angela and I took Remy out to use the restroom. We starting walking across this cobblestone/brick pathway and Angela says watch your step because I had just rolled my ankle pretty badly the week before. The moment she says that, I say 'I'm good!' and immediately twist my ankle again! Wasn't funny in the moment but is now. Ankle swole up to the size of a softball.",
+      "questionText": "What would Jeff say is the funniest memory he has of the two of you together",
+      "answerText": "Nearly being eaten by jungle cannibals. Not funny at the time, but probably the dumbest thing they have done together.",
       "showQuestion": false,
       "value": 800,
       "clicked": false
     },
     {
       "id": 24,
-      "questionText": "Name one room in your house Trey says you have NOT had sex in",
-      "answerText": "The front dining room",
+      "questionText": "Name one room in your house Jeff says you have NOT had sex in",
+      "answerText": "the office",
       "showQuestion": false,
       "value": 800,
       "clicked": false
     },
     {
-      "id": 25,
-      "questionText": "As of August 7th, what was Trey’s current Skipbo score on the wall",
-      "answerText": "12",
+      "id": 25, 
+      "questionText": "What would Jeff request for his final meal",
+      "answerText": "Thanksgiving",
       "showQuestion": false,
       "value": 1000,
       "clicked": false
     },
     {
       "id": 26,
-      "questionText": "What is Trey’s favorite drink that Angela has introduced him to",
-      "answerText": "cabernet sauvignon",
+      "questionText": "What is Jeff's favorite drink or alcohol that Britta has introduced him to",
+      "answerText": "wine",
       "showQuestion": false,
       "value": 1000,
       "clicked": false
     },
     {
       "id": 27,
-      "questionText": "What amount of money would Trey accept to hyphenate your family’s name to Cox-Bloomer",
-      "answerText": "$10 million",
+      "questionText": "If Jeff had to have any of his body parts waxed, what would it be",
+      "answerText": "He would murder the asshole forcing the choice on him",
       "showQuestion": false,
       "value": 1000,
       "clicked": false
     },
     {
       "id": 28,
-      "questionText": "How many times would Trey say that ‘sexy time’ has been somehow interrupted by Remy and/or Tanner",
-      "answerText": "Oh, not that many. Like a handful, 4-5 times. We can usually ignore them",
+      "questionText": "How many times would Jeff say that ‘sexy time’ has been somehow interrupted by Poppy",
+      "answerText": "zero, the dog isn't invited.",
       "showQuestion": false,
       "value": 1000,
       "clicked": false
     },
     {
       "id": 29,
-      "questionText": "What is Trey's favorite memory of the two of you together",
-      "answerText": "Proposing to her on top of Craggy Garden Summit in Asheville",
+      "questionText": "What is Jeff's favorite memory of the two of you together",
+      "answerText": "Penner Ash. That whole day was perfect but Penner Ash was the peak.",
       "showQuestion": false,
       "value": 1000,
       "clicked": false
     },
     {
       "id": 30,
-      "questionText": "Who was Trey's first real kiss with",
-      "answerText": "Megan Moore in 10th grade",
+      "questionText": "Who was Jeff's first real kiss with",
+      "answerText": "never got her name",
       "showQuestion": false,
       "value": 1000,
       "clicked": false
