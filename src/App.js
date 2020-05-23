@@ -53,9 +53,9 @@ export default class App extends React.Component {
             <tr className="text-center">
               <Category categoryText="Are You Not Entertained?! (Gladiator reference)" />
               <Category categoryText="Potent Potables" />
-              <Category categoryText="Childhood Memories & Future Family" />
+              <Category categoryText="Childhood Memories & Travel" />
               <Category categoryText="Pet Peeves" />
-              <Category categoryText="Favorites and Memories" />
+              <Category categoryText="Favorites & Memories" />
               <Category categoryText="Love is in Bloom" />
             </tr>
           </thead>

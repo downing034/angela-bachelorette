@@ -67,7 +67,7 @@ export const QuestionsJson = {
     {
       "id": 9,
       "questionText": "What is Jeff's favorite story he’s heard about a Nicholson family memory",
-      "answerText": "",
+      "answerText": "JEFF FORGOT TO ANSWER!",
       "showQuestion": false,
       "value": 400,
       "clicked": false
@@ -193,7 +193,7 @@ export const QuestionsJson = {
       "clicked": false
     },
     {
-      "id": 25, 
+      "id": 25,
       "questionText": "What would Jeff request for his final meal",
       "answerText": "Thanksgiving",
       "showQuestion": false,
