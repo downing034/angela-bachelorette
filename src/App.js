@@ -1,6 +1,7 @@
 import React from 'react';
 import Category from './category'
 import Question from './question'
+import QuestionImage from './questionImage'
 import './App.css';
 
 import { QuestionsJson } from './constants/questions'
@@ -51,12 +52,12 @@ export default class App extends React.Component {
         <table className="table white-text">
           <thead>
             <tr className="text-center">
-              <Category categoryText="Are You Not Entertained?! (Gladiator reference)" />
-              <Category categoryText="Potent Potables" />
-              <Category categoryText="Childhood Memories & Travel" />
-              <Category categoryText="Pet Peeves" />
-              <Category categoryText="Favorites & Memories" />
-              <Category categoryText="Love is in Bloom" />
+              <Category categoryText="The Book" />
+              <Category categoryText="The Diaper" />
+              <Category categoryText="The Baby Food" />
+              <Category categoryText="The Grandmother to Be" />
+              <Category categoryText="The Mama" />
+              <Category categoryText="The Attendees" />
             </tr>
           </thead>
           <tbody>
@@ -174,13 +175,27 @@ export default class App extends React.Component {
   renderQuestion() {
     const { questionId } = this.state
     const question = QuestionsJson.questions.find(q => q.id === questionId)
-    return (
-      <Question
-        id={question.id}
-        questionText={question.questionText}
-        answerText={question.answerText}
-        onClose={this.hideQuestion}
-      />
-    )
+    const hasImage = question.src
+    console.log('question', question.src)
+
+    if (hasImage) {
+      return (
+        <QuestionImage
+          id={question.id}
+          question={question}
+          src={question.src}
+          onClose={this.hideQuestion}
+        />
+      )
+    } else {
+      return (
+        <Question
+          id={question.id}
+          questionText={question.questionText}
+          answerText={question.answerText}
+          onClose={this.hideQuestion}
+        />
+      )
+    }
   }
 }
