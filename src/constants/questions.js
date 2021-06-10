@@ -10,7 +10,7 @@ export const QuestionsJson = {
     },
     {
       "id": 2,
-      "questionText": "This type of diaper is reusable when waashed.",
+      "questionText": "This type of diaper is reusable when washed.",
       "answerText": "Cloth Diaper",
       "showQuestion": false,
       "value": 200,
@@ -92,7 +92,7 @@ export const QuestionsJson = {
     },
     {
       "id": 12,
-      "questionText": "This person believes in excessing tipping, especially during COVID",
+      "questionText": "This person believes in excessive tipping, especially during COVID",
       "answerText": "Marti Estey (usually at least 50% of the check!)",
       "showQuestion": false,
       "value": 400,
@@ -125,7 +125,7 @@ export const QuestionsJson = {
     },
     {
       "id": 16,
-      "questionText": "Besides kids, thi is the other 'love' Grandma Pam has",
+      "questionText": "Besides kids, this is the other 'love' Grandma Pam has",
       "answerText": "Animals",
       "showQuestion": false,
       "value": 600,
@@ -239,7 +239,7 @@ export const QuestionsJson = {
     },
     {
       "id": 30,
-      "questionText": "This person knows more tennis gossip and people than anyone else in this room. Or likely the entire USTA",
+      "questionText": "This person knows more tennis gossip and people than anyone else in this room or likely the entire USTA",
       "answerText": "Kris Paul",
       "showQuestion": false,
       "value": 1000,
